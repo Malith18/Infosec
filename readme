@@ -1,1 +1,24 @@
-Welcome to my cybersecurity portfolio. My name is Malith, and I am a cybersecurity specialist with expertise in network security, ethical hacking, and information assurance. This repository showcases my projects, skills, and professional journey in the field of cybersecurity.
+# Infosec Portfolio
+
+Welcome to my cybersecurity portfolio. Here you'll find detailed documentation of various projects I have worked on, ranging from penetration testing to tool development and vulnerability analysis.
+
+## Projects
+
+- [Penetration Testing Projects](Penetration_Testing_Projects)
+  - [Web Application Penetration Testing](Penetration_Testing_Projects/Project1/README.md)
+- [CTF Writeups](CTF_Writeups)
+  - [Capture the Flag Challenge Writeup](CTF_Writeups/Writeup1/README.md)
+- [Tool Development](Tool_Development)
+  - [Custom Security Tool](Tool_Development/Tool1/README.md)
+- [Vulnerability Analysis](Vulnerability_Analysis)
+  - [Specific Vulnerability Analysis](Vulnerability_Analysis/Analysis1/README.md)
+
+## About Me
+
+Brief description about yourself, your background, and your goals in cybersecurity.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:your.email@example.com)
+
